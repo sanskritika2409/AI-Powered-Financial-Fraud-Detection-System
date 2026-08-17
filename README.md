@@ -241,7 +241,7 @@ Note: Keep the trained .pkl file in the same directory as app.py if the applicat
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/sanskritika2409/AI-Powered-Financial-Fraud-Detection-System
 cd YOUR_REPOSITORY
 
 2. Create a virtual environment
